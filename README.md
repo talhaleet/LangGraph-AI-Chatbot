@@ -57,7 +57,7 @@ LangGraph-AI-Chatbot/
 Clone repository:
 
 ```bash
-git clone https://github.com/your-username/LangGraph-AI-Chatbot.git
+git clone https://github.com/talhaleet/LangGraph-AI-Chatbot.git
 ```
 
 Go inside project:
