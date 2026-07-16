@@ -109,9 +109,10 @@ streamlit run Frontend/app.py
 ```
 
 
-## Screenshots
+## Screenshot
+<img src="media/screenshot.png">
 
-Add screenshots of your application here.
+
 
 
 ## Future Improvements
