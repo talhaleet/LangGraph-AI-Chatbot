@@ -10,6 +10,9 @@ The chatbot supports:
 - PDF document question answering (RAG)
 - Chat history storage
 
+## Screenshot
+<img src="media/screenshot.png">
+
 
 ## Features
 
@@ -109,8 +112,7 @@ streamlit run Frontend/app.py
 ```
 
 
-## Screenshot
-<img src="media/screenshot.png">
+
 
 
 
